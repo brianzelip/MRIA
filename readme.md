@@ -1,6 +1,3 @@
-## Mount Royal Improvement Association Notes
+## Mount Royal Improvement Association Site Revamp
 
-Designing in the open a new MRIA site.
-
-Because it's a WordPress site, the material presented here will be descriptive, high-level/theoretical about the information architecture.
-
+Designing in the open a new MRIA site. Here be notes and code.
