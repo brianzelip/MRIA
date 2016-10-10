@@ -1,5 +1,5 @@
-Bolton Hill History
-by Fred Shoken, March,2000,Revised February 2003
+# Bolton Hill History
+## by Fred Shoken, March,2000,Revised February 2003
 
 
 Overview
@@ -44,7 +44,7 @@ Later 19th century row houses were influenced by popular architectural styles of
 
 By the end of the 19th century, row house development was complete. A few large apartment buildings, most notably the Marlborough Apartments, were constructed in the neighborhood in the first decade of the 20th century.
 
-back to page top
+
 
 Historic Churches and Institutions: Lofty Spires and Stately Domes
 
@@ -58,7 +58,7 @@ The first public school in Bolton Hill, the Sidney Lanier School, built at Linde
 
 Other non-residential development in Bolton Hill includes a few commercial storefronts, primarily at street corners, that provided basic conveniences to residents. Among the few surviving storefronts are two at Bolton and Mosher streets, the Park Avenue Pharmacy at Park Avenue and McMechen Street, the On the Hill Cafe & Market at John and Mosher streets, and three on Dolphin Lane near Bolton Street.
 
-back to page top
+
 
 Historic Parks and Monuments: The Artistic Neighborhood
 
@@ -68,7 +68,7 @@ fsk_mon.jpg (193743 bytes)Bolton Hill’s landscaped boulevards became the ideal
 
 pc_confed.jpg (79452 bytes)A monument honoring two winners of the Congressional Medal of Honor in World War I stands on Dolphin Street and Park Avenue. Stone lions that had decorated the Calvert Street Bridge over the Jones Falls now reside in the small park in Park Purchase, a townhouse development within Bolton Hill. The park is now known affectionately as "Lion Park." The sculpture tradition continues in Bolton Hill with the modern artwork in and around the buildings of the Maryland Institute College of Art.
 
-back to page top
+
 
 Transportation: From Street Car to Light Rail
 
@@ -80,7 +80,7 @@ After World War II, when the automobile began to dominate urban transportation, 
 
 Today no other city neighborhood has as many transportation options as Bolton Hill. Both the Metro and Light Rail have stations on the edges of the community. The Metro provides quick access to the northwest suburbs, downtown, and the Johns Hopkins Hospital. Light rail travels north to Mount Washington and Hunt Valley and south to downtown, Camden Yards, and BWI Airport. Penn Station, with Amtrak service, is a short walk from Bolton Hill. One can also walk downtown in one-half hour, or bicycle along marked bike route posted on Eutaw Place.
 
-back to page top
+
 
 The People of Bolton Hill: A Diverse Neighborhood
 
@@ -162,7 +162,7 @@ The following is a list of famous Bolton Hill residents and where they lived com
 
     Woodrow Wilson - JHU. a Ph.D. student, a vital first step toward his becoming president of Princeton University, governor of New Jersey, and president of the United States;* 1210 Eutaw Pl.
 
-back to page top
+
 
 Decline and Struggle: White Flight and Defense Worker Crowding
 
@@ -172,7 +172,7 @@ Bolton Hill underwent a period of decline in the mid-20th century. People divide
 
 Although most of Bolton Hill remained stable, the western edge defined by Eutaw Place and Linden Avenue deteriorated. Individual families could no longer afford to maintain enormous Eutaw Place mansions, many of which were converted into apartment houses. Many considered Linden Avenue a slum. Federal urban renewal programs, often defined as "urban removal" programs, targeted this western edge for "stabilization." New developments replaced large portions of Bolton Hill that were demolished.
 
-back to page top
+
 
 Renewal and Preservation: Building Anew and Restoring the Old
 
@@ -184,7 +184,7 @@ Bolton Hill became a Baltimore City historic district in 1967, mandating the pre
 
 The 1960s innovative, adaptive reuse of Mount Royal Station for the Maryland Institute helped spearhead not only local efforts to find new uses for old buildings, but also a national movement. Railroad stations became art schools. Schools became apartment buildings. Industrial buildings were converted into offices. Power plants became entertainment centers.
 
-back to page top
+
 
 Bolton Hill Today: A Work in Progress
 
@@ -198,7 +198,7 @@ At the turn of the the 21st century, Bolton Hill, better than any other Baltimor
 
 Bolton Hill’s future will be built on its strong foundation combining a high quality physical environment with civic activism. Working together, its residents continue to improve the neighborhood’s physical character and enhance its quality of life.
 
-back to page top
+
 
 Bibliography: Read More About Bolton Hill
 
